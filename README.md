@@ -44,6 +44,7 @@
   <h3>"Às vezes é preciso aprender a correr antes de começar a andar."</h3>
   <p>-Tony Stark</p>
   
+  ##
   
   ![Snake animation](https://github.com/danieldpereira/danieldpereira/blob/output/github-contribution-grid-snake.svg)
  
