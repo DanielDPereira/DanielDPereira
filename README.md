@@ -1,9 +1,9 @@
 ## Olá, eu sou o Daniel!
 
-<p>➜ 📚 Instituto Alpha Lumen</p>
+<p>➜ 👨🏽‍💻 Coder</p>
 <p>➜ 🎮 Gamer</p>
 <p>➜ 💻 Technology lover</p>
-<p>➜ 👨🏽‍💻 Coder</p>
+<p>➜ 📚 Instituto Alpha Lumen</p>
 <p>➜ 🤓 Sometimes kinda nerdy</p>
 
 ##
