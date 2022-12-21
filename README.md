@@ -5,6 +5,7 @@
 <p>➜ 🎮 Gamer;</p>
 <p>➜ 💻 Technology lover;</p>
 <p>➜ 📚 Instituto Alpha Lumen;</p>
+<p>➜ 🇧🇷 Brazilian with great proud;</p>
 <p>➜ 🤓 Sometimes kinda nerdy;</p>
 
 ##
