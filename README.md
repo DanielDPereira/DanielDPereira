@@ -8,11 +8,7 @@
 <p>➜ 🇧🇷 Brazilian with great proud;</p>
 <p>➜ 🤓 Sometimes kinda nerdy;</p>
 
-##
-
-<head>
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-</head>    
+##    
 
 <div align="center">
   <a href="https://github.com/DanielDPereira">
