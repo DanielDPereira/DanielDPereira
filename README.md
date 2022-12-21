@@ -1,4 +1,4 @@
-## Olá, eu sou o Daniel!
+## Olá, eu sou Daniel!
 
 <p>➜ 👶 Since 2006;</p>
 <p>➜ 👨🏽‍💻 Coder;</p>
