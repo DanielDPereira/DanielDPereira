@@ -1,6 +1,6 @@
 ## Olá, eu sou Daniel!
 
-<p>➜ 👶 Since 2006;</p>
+<p>➜ ⭐ Since 2006;</p>
 <p>➜ 👨🏽‍💻 Coder;</p>
 <p>➜ 🎮 Gamer;</p>
 <p>➜ 💻 Technology lover;</p>
