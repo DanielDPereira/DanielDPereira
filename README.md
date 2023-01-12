@@ -5,7 +5,7 @@
 <p>➜ 🎮 Gamer;</p>
 <p>➜ 💻 Technology lover;</p>
 <p>➜ 📚 Instituto Alpha Lumen;</p>
-<p>➜ 🇧🇷 Brazilian with great proud;</p>
+<p>➜ <img align="center" alt="BRASIL" height="20" width="20" src="https://flagicons.lipis.dev/flags/4x3/br.svg"> Brazilian with great proud;</p>
 <p>➜ 🤓 Sometimes kinda nerdy;</p>
 
 ##    
