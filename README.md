@@ -3,7 +3,7 @@
 <p>➜ ⭐ Since 2006;</p>
 <p>➜ 👨🏽‍💻 Coder;</p>
 <p>➜ 🎮 Gamer;</p>
-<p>➜ 💻 Olympic medalist;</p>
+<p>➜ 🏅 Olympic medalist;</p>
 <p>➜ 💻 Technology lover;</p>
 <p>➜ 📚 Instituto Alpha Lumen;</p>
 <p>➜ <img align="center" alt="BRASIL" height="20" width="20" src="https://flagicons.lipis.dev/flags/4x3/br.svg"> &nbsp;Brazilian with great proud;</p>
