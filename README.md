@@ -49,6 +49,8 @@
   <a href="https://www.linkedin.com/in/daniel-dias-pereira-40219425b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/DanielDPereira_" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   
+  <img align="center" src="https://media0.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif?cid=ecf05e47cr4bs1p21dotitw1r6icn5jvjqlzi6yeieb2veaz&rid=giphy.gif&ct=g">
+  
   <h3>"Às vezes é preciso aprender a correr antes de começar a andar."</h3>
   <p>-Tony Stark</p>
   
