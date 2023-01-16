@@ -52,7 +52,7 @@
   <br>
   <div align="center">
     <br>
-   <img height="80em" src="https://media0.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif?cid=ecf05e47cr4bs1p21dotitw1r6icn5jvjqlzi6yeieb2veaz&rid=giphy.gif&ct=g">
+   <img alt="gif" height="80em" src="https://media0.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif?cid=ecf05e47cr4bs1p21dotitw1r6icn5jvjqlzi6yeieb2veaz&rid=giphy.gif&ct=g">
   </div>
     
   <h3>"Às vezes é preciso aprender a correr antes de começar a andar."</h3>
