@@ -33,7 +33,7 @@
   <img align="center" alt="Daniel-Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
   <!-- Lab View (em breve) -->
           
-  <img align="right" alt="Daniel-pic" height="120" style="border-radius:50px;" src="https://pbs.twimg.com/profile_images/1572540310256852997/zK7c2zgw_400x400.jpg">
+  <img align="right" alt="Daniel-pic" height="120" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/86617987?s=96&amp;v=4">
   
 
 </div>
