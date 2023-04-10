@@ -5,7 +5,7 @@
 <p>➜ 🎮 Gamer;</p>
 <p>➜ 💻 Technology lover;</p>
 <p>➜ 🏅 Olympic medalist;</p>
-<p>➜ FRC   1860;</p>
+<p>➜ 🤖 FRC 1860;</p>
 <p>➜ 📚 Instituto Alpha Lumen;</p>
 <p>➜ <img align="center" alt="BRASIL" height="20" width="20" src="https://flagicons.lipis.dev/flags/4x3/br.svg"> &nbsp;Brazilian;</p>
 <p>➜ 🤓 Sometimes kinda nerdy;</p>
