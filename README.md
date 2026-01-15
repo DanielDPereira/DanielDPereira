@@ -6,16 +6,16 @@
 <p>➜ 🎮 Gamer;</p>
 <p>➜ <img align="center" alt="BRASIL" height="20" width="20" src="https://flagicons.lipis.dev/flags/4x3/br.svg"> &nbsp;Brazilian;</p>
 <p>➜ 💻 Technology lover;</p>
-<p>➜ 🏅 Olympic medalist;</p>
 <p>➜ 🤓 Sometimes kinda nerdy;</p>
 
 ##    
 
 <div align="center">
   <a href="https://github.com/DanielDPereira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielDPereira&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielDPereira&layout=compact&langs_count=7&theme=algolia"/>
-  <img height="180em" src="https://streak-stats.demolab.com/?user=DanielDPereira&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=DanielDPereira&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=DanielDPereira&layout=compact&langs_count=7&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/streak?username=DanielDPereira&theme=algolia"/>
+
     
   <br>
   
