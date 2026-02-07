@@ -1,9 +1,6 @@
 # 👋 Olá, eu sou Daniel!
 
-🔗 <strong>Portfólio:</strong> 
-<a href="https://danieldpereira.github.io/danieldias.py" target="_blank">
-danieldpereira.github.io/danieldias.py
-</a>
+🔗 <strong>Portfólio:</strong> <a href="https://danieldpereira.github.io/danieldias.py" target="_blank">danieldpereira.github.io/danieldias.py</a>
 
 Atualmente sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na **FATEC São José dos Campos**, com foco em **desenvolvimento de software**, **automação de tarefas**, **Ciência de Dados** e **Inteligência Artificial**, desenvolvedor sempre em busca de escrever código limpo, funcional e eficaz.
 
