@@ -21,7 +21,7 @@ Atualmente sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na 
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=DanielDPereira&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=DanielDPereira&layout=compact&langs_count=7&theme=algolia" />
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=DanielDPereira&layout=compact&langs_count=8&theme=algolia" />
   <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/streak?username=DanielDPereira&theme=algolia" />
 
 <br><br> <img src="https://komarev.com/ghpvc/?username=DanielDPereira&color=050f2c" alt="Profile views" />
