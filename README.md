@@ -32,17 +32,19 @@ Atualmente sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na 
 
 ## 🛠️ Tecnologias & Ferramentas
 
-<div align="left">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-  <img align="center" alt="n8n" height="30" width="40" src="https://devicons.railway.com/i/n8n.svg" />
-  <img align="center" alt="Ollama" height="30" width="40" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/ollama.png"/>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
-  <img align="center" alt="Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
+<img align="right" alt="Daniel" height="120" style="border-radius:50%;" src="https://avatars.githubusercontent.com/u/86617987?v=4" />
 
-  <img align="right" alt="Daniel" height="120" style="border-radius:50%;" src="https://avatars.githubusercontent.com/u/86617987?v=4" />
-</div>
+<p>
+  <img alt="Python" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />&nbsp;
+  <img alt="n8n" height="40" src="https://devicons.railway.com/i/n8n.svg" />&nbsp;
+  <img alt="Ollama" height="40" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/ollama.png" />&nbsp;
+  <img alt="HTML" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />&nbsp;
+  <img alt="CSS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />&nbsp;
+  <img alt="JavaScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />&nbsp;
+  <img alt="Arduino" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
+</p>
+
+<br clear="all" />
 
 ---
 
