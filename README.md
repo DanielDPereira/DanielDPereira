@@ -10,7 +10,7 @@ Atualmente sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na 
 
 * 🎂 Nascido em 2006
 * 🌎 São José dos Campos - SP
-* 📚 Estudante de ADS – FATEC SJC
+* 📚 Estudante de ADS (4/6) – FATEC SJC
 * 👨‍💻 Desenvolvedor em formação
 * 💻 Entusiasta de tecnologia e aprendizado contínuo
 * 🚀 Transformo desafios em soluções
