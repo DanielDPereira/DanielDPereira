@@ -24,8 +24,11 @@ Atualmente sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na 
   <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=DanielDPereira&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=DanielDPereira&layout=compact&langs_count=8&theme=algolia" />
   <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/streak?username=DanielDPereira&theme=algolia" />
+  
+  <div align="center"> <a href="https://www.codewars.com/users/DanielDPereira" target="_blank"> <img src="https://www.codewars.com/users/DanielDPereira/badges/large" alt="Codewars Badge" /> </a> </div>
 
-<br><br> <img src="https://komarev.com/ghpvc/?username=DanielDPereira&color=050f2c" alt="Profile views" />
+
+<br> <img src="https://komarev.com/ghpvc/?username=DanielDPereira&color=050f2c" alt="Profile views" />
 
 </div>
 
